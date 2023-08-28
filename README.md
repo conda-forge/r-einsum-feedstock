@@ -3,6 +3,7 @@ About r-einsum-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-einsum-feedstock/blob/main/LICENSE.txt)
 
+
 About r-einsum
 --------------
 
@@ -11,6 +12,7 @@ Home: https://CRAN.R-project.org/package=einsum
 Package license: MIT
 
 Summary: The summation notation suggested by Einstein (1916) <doi:10.1002/andp.19163540702> is a concise mathematical notation that implicitly sums over repeated indices of n-dimensional arrays. Many ordinary matrix operations (e.g. transpose, matrix multiplication, scalar product, 'diag()', trace etc.) can be written using Einstein notation. The notation is particularly convenient for expressing operations on arrays with more than two dimensions because the respective operators ('tensor products') might not have a standardized name.
+
 About r-einsum
 --------------
 
